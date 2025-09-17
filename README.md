@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
+<h1 align="center">I'm <a href="https://t.me/Alenka_Elhel" target="_blank">Alena Elhel</a></h1>
 
-<!--
-**ochumenno66/ochumenno66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   Frontend Developer from St. Petersburg<br>
+    I turn the invisible into the visible. Through code.
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Tech stack I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ React / Next.js / Vue  
+💅 Tailwind / Bootstrap / pure CSS  
+⚙️ TypeScript / JavaScript  
+🌍 WordPress (frontend, layout)  
+🚀 Vite / Webpack  
+🎨 HTML, design blocks, responsive layouts  
+🌐 A bit of backend with Node.js + Express (still learning!)
+
+### 📬 Contact me
+
+🌱 I’m currently learning Node.js  
+📫 Email: alenka.elhel@gmail.com  
+💬 Telegram: [@Alenka_Elhel](https://t.me/Alenka_Elhel)
