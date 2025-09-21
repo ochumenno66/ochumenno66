@@ -14,10 +14,11 @@
 🌍 WordPress (frontend, layout)  
 🚀 Vite / Webpack  
 🎨 HTML, design blocks, responsive layouts  
-🌐 A bit of backend with Node.js + Express (still learning!)
+
+🌱 I’m currently learning Node.js
+   
 
 ### 📬 Contact me
 
-🌱 I’m currently learning Node.js  
 📫 Email: alenka.elhel@gmail.com  
 💬 Telegram: [@Alenka_Elhel](https://t.me/Alenka_Elhel)
